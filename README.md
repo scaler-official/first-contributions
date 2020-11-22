@@ -16,9 +16,12 @@ beginner friendly guide: [https://ubuntu.com/tutorials/command-line-for-beginner
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
+<img align="right" width="300" src="https://raw.githubusercontent.com/scaler-official/first-contributions/master/assets/fork.png" alt="clone this repository" />
 
+### Clone Repo
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the _copy to clipboard_ icon.
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/scaler-official/first-contributions/master/assets/clone.png" alt="clone this repository" />
 
 Open a terminal and run the following git command:
 
@@ -28,15 +31,13 @@ git clone "url you just copied"
 
 where "url you just copied" (without the quotation marks) is the url to this repository (your fork of this project). See the previous steps to obtain the url.
 
-<img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
-
 For example:
 
 ```
-git clone https://github.com/this-is-you/first-contributions.git
+git clone https://github.com/your-username/first-contributions.git
 ```
 
-where `this-is-you` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
+where `your-username` is your GitHub username. Here you're copying the contents of the first-contributions repository on GitHub to your computer.
 
 ### Create a branch
 
@@ -96,13 +97,11 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 
-<!-- TODO: Change this Image -->
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" alt="create a pull request" />
+<img style="float: right;" src="https://raw.githubusercontent.com/scaler-official/first-contributions/master/assets/create-pull-request.png" alt="create a pull request" />
 
-Now submit the pull request.
+Now submit the pull request using `Create pull request` button. Make sure there is `scaler-official/first-contributions` written in top-left corner.
 
-<!-- TODO: Change this Image -->
-<img style="float: right;" src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" alt="submit pull request" />
+<img style="float: right;" src="https://raw.githubusercontent.com/scaler-official/first-contributions/master/assets/open-pull-request.png" alt="submit pull request" />
 
 Soon We'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
 
