@@ -5,6 +5,7 @@ Ayush Kumar
 Abhishek Gautam
 Ayaan2907 (https://github.com/Ayaan2907/)
 Ayush Kumar
+Burhan Garari
 Gatish Mehta
-Shreya Kumari 
+Shreya Kumari
 Vinayak J
